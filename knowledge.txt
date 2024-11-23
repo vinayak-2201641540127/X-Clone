@@ -1,0 +1,8 @@
+2 folders: backend and frontend
+frontend: npx create-react-app twitter-clone
+            cd frontend and npm start
+
+setup tailwind setup
+
+npm i react-avatar
+npm i react-router-dom
